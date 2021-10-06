@@ -7,7 +7,7 @@ Easy-peasy
 2. Install apk on your android
 3. Donwload .exe and .dll file, make sure they are in the same folder
 4. Start .exe
-5. Use the listed IP in phone application
-6. Phone should be in the same network as the pc (meaning using the same router, or connected by USB/Wifi/Bluetooth tethering)
+5. Phone should be in the same network as the pc (meaning using the same router, or connected by USB/Wifi/Bluetooth tethering)
+6. Use the listed IP in phone application
 7. Choose port (same port for both applications)
 8. Should work!
