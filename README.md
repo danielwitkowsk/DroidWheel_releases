@@ -2,11 +2,12 @@ DroidWheel is an app that allows you to use sensors available in your android de
 
 Installation:
 
-1. Install this thing https://github.com/ViGEm/ViGEmBus/releases/tag/setup-v1.17.333
-2. Install apk on your android
-3. Download .exe and .dll file, make sure they are in the same folder
-4. Start .exe
-5. Phone should be in the same network as the pc (meaning using the same router, or connected by USB/Wifi/Bluetooth tethering)
-6. Use the listed IP in phone application
-7. Choose port (same port for both applications)
-8. Should work!
+1. Install virtual gamepad driver https://github.com/ViGEm/ViGEmBus/releases/tag/setup-v1.17.333
+2. Download and install DroidWheel.apk on your android from here: https://github.com/danielwitkowsk/DroidWheel_releases/releases
+3. Download DroidWheelServer.exe and Nefarius.ViGEm.Client.dll on Windows, make sure they are in the same folder
+4. Start DroidWheelServer.exe
+5. Make sure that phone is in the same network as the pc (meaning using the same router, or connected by USB/Wifi/Bluetooth tethering)
+6. It's important that connected network in Windows settings is set as Public, not Private.
+7. Use the listed IP from the DroidWheelServer.exe in phone application
+8. Choose port, any open port will do (e. g. 8888, same port for both applications)
+9. Should work!
