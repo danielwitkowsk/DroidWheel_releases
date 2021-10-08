@@ -1,5 +1,7 @@
 DroidWheel is an app that allows you to use sensors available in your android device to simulate steering wheel. Just mount your phone/tablet on any rotatable surface and you're good to go. App uses ViGemBus.
 
+Caution: App might not work on devices without gyroscopes. You can check whether one is present in your phone by checking device specifications.
+
 Installation:
 
 1. Install virtual gamepad driver https://github.com/ViGEm/ViGEmBus/releases/tag/setup-v1.17.333
