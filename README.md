@@ -12,4 +12,5 @@ Installation:
 6. It's important that connected network in Windows settings is set as Public, not Private.
 7. Use the listed IP from the DroidWheelServer.exe in phone application
 8. Choose port, any open port will do (e. g. 8888, same port for both applications)
-9. Should work!
+9. Choose range in degrees
+10. Should work!
